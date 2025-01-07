@@ -58,7 +58,8 @@ Um aplicativo nativo para dispositivos iOS, desenvolvido utilizando Swift e arqu
 ---
 
 ## Contato
-- **Email**: joaovitor.taschetto@gmail.com
+- **Email**: joao.vitor.taschetto@hotmail.com
+- **Portifolio**: taschetto.tech
 - **LinkedIn**: [João Vitor Taschetto](https://www.linkedin.com/in/joao-vitor-taschetto)
 
 Estou animado para colaborar em projetos desafiadores e inovadores. Vamos conversar?
