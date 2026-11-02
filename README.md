@@ -1,7 +1,7 @@
 # João Vitor Taschetto - Web & Mobile Developer
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-taschetto.tech-blue)](http://taschetto.tech)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([www.linkedin.com/in/jv-taschetto](https://www.linkedin.com/in/jv-taschetto))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/jo%C3%A3o-vitor-taschetto-574aba205)
 
 ## Sobre Mim
 Olá! Sou João Vitor Taschetto, formado em Ciência da Computação, especializado em desenvolvimento front-end e mobile. Com dupla cidadania (brasileira e italiana), sou apaixonado por criar experiências digitais modernas e funcionais. Atualmente, estou buscando oportunidades para crescer profissionalmente na Europa.
